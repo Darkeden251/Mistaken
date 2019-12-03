@@ -1,0 +1,5 @@
+Sales Invoice for bobs, Tue Dec 03 01:18:16 EST 2019
+ Part Name          | Part Number          |      Price          | Sales Price          |       Qnty          | Total Cost
+WTB_saddle          | 1234567890           |      33.00          |      25.58           |          3          |    99.00
+     Total                                                                                                         99.00
+Received by signature: bob

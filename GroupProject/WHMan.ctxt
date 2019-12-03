@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WHMan
+comment0.text=\r\n\ WareHouse\ Manager\ class.\ \r\n\r\n\ @author\ Abdel\ Hamid\ Shehata\r\n\ @version\ 12/3/2019\r\n
+comment1.params=name\ pass\ first\ last\ email\ type\ warehouse
+comment1.target=WHMan(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ WareHouse)
+comment1.text=\r\n\ Paramaterized\ constructor,\ using\ the\ constructor\ from\ the\ LoginAccount\ superclass\r\n\ @param\ name\ String,\ the\ name\ of\ the\ account\r\n\ @param\ pass\ String,\ the\ account's\ password\r\n\ @param\ first\ String,\ the\ first\ name\ of\ the\ account's\ user\r\n\ @param\ last\ String,\ the\ last\ name\ of\ the\ account's\ user\r\n\ @param\ email\ String,\ the\ email\ address\ of\ the\ account's\ user\r\n\ @param\ type\ String,\ the\ type\ of\ account\ this\ is\ \r\n\ @param\ warehouse\ WareHouse,\ this\ manager's\ warehouse\r\n
+comment2.params=
+comment2.target=WareHouse\ getWareHouse()
+comment2.text=\r\n\ Getter,\ returns\ this\ account's\ warehouse\r\n\ @return\ WareHouse\ warehouse,\ this\ account's\ warehouse\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=file\ readwrite
+comment4.target=java.util.ArrayList\ inventoryUpdate(java.lang.String,\ ReaderWriter)
+comment4.text=\r\n\ Updates\ an\ inventory\ file\ based\ on\ a\ provided\ delivery\ file\r\n\ @param\ file\ the\ inventory\ file\ being\ written\ to\r\n\ @\ param\ readwrite\ a\ ReadWriter\ used\ to\ write\ to\ the\ file\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SysAdmin
+comment0.text=\r\n\ SysAdmin\ account\ class\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ 12/3/2019\r\n
+comment1.params=name\ pass\ first\ last\ email\ type
+comment1.target=SysAdmin(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ paramaterized\ constructor\ using\ super\ constructor\r\n\ @param\ type\ String,\ the\ type\ of\ account\ being\ created\r\n\ @param\ name\ String,\ the\ name\ of\ the\ account\ being\ created\r\n\ @param\ pass\ String,\ the\ new\ account's\ password\r\n\ @param\ first\ String,\ the\ first\ name\ of\ the\ account's\ user\r\n\ @param\ last\ String,\ the\ last\ name\ of\ the\ account's\ user\r\n\ @param\ email\ String,\ the\ email\ address\ of\ the\ account's\ user\r\n
+comment2.params=type\ name\ pass\ first\ last\ email\ salesvan
+comment2.target=SalesAssoc\ createSalesAssoc(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ SalesVan)
+comment2.text=\r\n\ Creates\ a\ new\ sales\ associate\ account\r\n\ @param\ type\ String,\ the\ type\ of\ account\ being\ created\r\n\ @param\ name\ String,\ the\ name\ of\ the\ account\ being\ created\r\n\ @param\ pass\ String,\ the\ new\ account's\ password\r\n\ @param\ first\ String,\ the\ first\ name\ of\ the\ account's\ user\r\n\ @param\ last\ String,\ the\ last\ name\ of\ the\ account's\ user\r\n\ @param\ email\ String,\ the\ email\ address\ of\ the\ account's\ user\r\n\ @param\ salesvan\ SalesVan,\ the\ new\ account's\ SalesVan\r\n\ @return\ SalesAssoc\ a\ new\ sales\ associate\ account\r\n\ \r\n
+comment3.params=type\ name\ pass\ first\ last\ email\ warehouse
+comment3.target=WHMan\ createWHMan(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ WareHouse)
+comment3.text=\r\n\ Creates\ a\ new\ warehouse\ manager\ account\r\n\ @param\ type\ String,\ the\ type\ of\ account\ being\ created\r\n\ @param\ name\ String,\ the\ name\ of\ the\ account\ being\ created\r\n\ @param\ pass\ String,\ the\ new\ account's\ password\r\n\ @param\ first\ String,\ the\ first\ name\ of\ the\ account's\ user\r\n\ @param\ last\ String,\ the\ last\ name\ of\ the\ account's\ user\r\n\ @param\ email\ String,\ the\ email\ address\ of\ the\ account's\ user\r\n\ @param\ warehouse\ WareHouse,\ the\ new\ account's\ SalesVan\r\n\ @return\ WHMan\ a\ new\ warehouse\ manager\ account\r\n\ \r\n
+comment4.params=type\ name\ pass\ first\ last\ email
+comment4.target=OfficeMan\ createOfficeMan(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Creates\ a\ new\ office\ manager\ account\r\n\ @param\ type\ String,\ the\ type\ of\ account\ being\ created\r\n\ @param\ name\ String,\ the\ name\ of\ the\ account\ being\ created\r\n\ @param\ pass\ String,\ the\ new\ account's\ password\r\n\ @param\ first\ String,\ the\ first\ name\ of\ the\ account's\ user\r\n\ @param\ last\ String,\ the\ last\ name\ of\ the\ account's\ user\r\n\ @param\ email\ String,\ the\ email\ address\ of\ the\ account's\ user\r\n\ @return\ OfficeMan\ a\ new\ office\ manager\ account\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Prints\ this\ account's\ details\ to\ a\ string,\ overriding\ the\ parent\ class's\ method.\r\n\ @return\ String\ this\ account's\ details\ as\ a\ String\ \r\n
+numComments=6

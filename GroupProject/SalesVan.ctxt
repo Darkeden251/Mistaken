@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SalesVan
+comment0.text=\r\n\ SalesVan\ inherits\ from\ WareHouse\ and\ creates\ a\ van\ object\ that\ will\r\n\ store\ inventory\ from\ the\ WareHouse.\r\n\r\n\ @author\ ZZywusko\r\n\ @version\ 12/3/2019\r\n
+comment1.params=n\ inventory
+comment1.target=SalesVan(java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SalesVan.\ Uses\ the\ super\ constructor\ from\ the\ WareHouse\ class\r\n
+comment2.params=n
+comment2.target=SalesVan(java.lang.String)
+comment2.text=\r\n\ constructor\ needing\ only\ a\ name,\ making\ the\ inventory\ a\ placeholder\ blank\ arraylist.\r\n
+numComments=3

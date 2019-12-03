@@ -1,0 +1,3 @@
+warehousemanager,warehouse,warehouse,warehouse,warehouse,warehouse,mainWareHouse
+officemanager,office,office,office,office,office
+salesassoc,sales,sales,sales,sales,sales,salesVanA,0.00

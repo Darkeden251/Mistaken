@@ -1,0 +1,5 @@
+mainWareHouse,salesVanA
+WTB_saddle,5
+26inTube,2
+seatPost,2
+carbonHandleBars42cm,10

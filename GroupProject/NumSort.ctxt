@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NumSort
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NumSort\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=part1\ part2
+comment1.target=int\ compare(BikePart,\ BikePart)
+comment1.text=\r\n\ Used\ for\ sorting\ parts\ by\ number\r\n\ @param\ part1\ BikePart,\ the\ first\ part\ being\ compared\r\n\ @param\ part2\ BikePart,\ the\ second\ part\ being\ compared\r\n\ @return\ int\ an\ integer\ representing\ which\ part\ comes\ first\ numerically.\r\n
+numComments=2

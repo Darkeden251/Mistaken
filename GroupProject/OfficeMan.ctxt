@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OfficeMan
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OfficeMan\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ pass\ first\ last\ email\ type
+comment1.target=OfficeMan(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=warehouse\ margin\ increase
+comment3.target=void\ enoughParts(WareHouse,\ int,\ int)
+numComments=4
